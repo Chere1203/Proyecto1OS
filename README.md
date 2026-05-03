@@ -35,7 +35,7 @@ brew install ffmpeg
 ### Generar archivos de prueba
 
 ```bash
-python generate_test_media.py
+python generate_test_media.py --extende
 ```
 
 Esto crea un video de prueba en `media/source_video.mp4`.
